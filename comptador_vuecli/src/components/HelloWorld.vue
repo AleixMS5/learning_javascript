@@ -32,7 +32,7 @@
 </template>
 
 <script>
-import Counter from "./counter.vue";
+import Counter from "./counter-ams.vue";
 
 export default {
   name: 'HelloWorld',

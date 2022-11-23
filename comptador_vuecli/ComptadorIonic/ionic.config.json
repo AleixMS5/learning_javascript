@@ -1,5 +1,7 @@
 {
-  "name": "ionic-app-base",
-  "integrations": {},
+  "name": "ComptadorIonic",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "vue"
 }
