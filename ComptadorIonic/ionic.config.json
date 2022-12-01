@@ -1,7 +1,0 @@
-{
-  "name": "ComptadorIonic",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "vue"
-}
